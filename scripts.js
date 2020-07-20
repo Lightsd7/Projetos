@@ -58,6 +58,11 @@ const projetos = [
     title: "TDD RSpec",
     thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
     link: "https://github.com/Lightsd7/TDD_RubyOnRails_RSpec"
+  },
+  {
+    title: "Aplicação web de crypto moedas.",
+    thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
+    link: "https://damp-depths-93411.herokuapp.com/"
   }
 ];
 
