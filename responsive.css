@@ -13,6 +13,9 @@ html {
 
     .hero .container img {
         order: -1;
+        height: 400px;
+        margin-bottom: 20px;
+        margin-top: -70px;
     }
 
     .form-group {
