@@ -15,7 +15,7 @@ const projetos = [
     link: "https://github.com/Lightsd7/Task-RubyOnRails"
   },
   {
-    title: "Site de ensino EAD com chatbot por texto e voz.",
+    title: "Site de ensino EAD com chatbot por texto e voz",
     thumb: "https://s2.glbimg.com/5pgaEIiZXIVWgSTOtfKBtm5AHaU=/695x393/s2.glbimg.com/vME2Bq4OSpm6f6IE16BhcVLR98U=/695x0/s.glbimg.com/po/tt2/f/original/2014/11/14/java-logo.jpg",
     link: "https://github.com/raphaelcamar/Chatbot-Voice---IBM-watson"
   },
@@ -60,9 +60,14 @@ const projetos = [
     link: "https://github.com/Lightsd7/TDD_RubyOnRails_RSpec"
   },
   {
-    title: "Aplicação web de crypto moedas.",
+    title: "Aplicação web de crypto moedas",
     thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
     link: "https://damp-depths-93411.herokuapp.com/"
+  },
+  {
+    title: "E-commerce de livros",
+    thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
+    link: "https://github.com/Lightsd7/E-Commerce"
   }
 ];
 
