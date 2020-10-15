@@ -68,6 +68,16 @@ const projetos = [
     title: "E-commerce de livros",
     thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
     link: "https://github.com/Lightsd7/E-Commerce"
+  },
+  {
+    title: "Dashboard controle de gastos",
+    thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
+    link: "https://github.com/Lightsd7/React-TypeScript_Dashboard"
+  },
+  {
+    title: "Gerenciador de Tarefas",
+    thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
+    link: "https://github.com/Lightsd7/DBE-Nac01"
   }
 ];
 
