@@ -78,6 +78,11 @@ const projetos = [
     title: "Gerenciador de Tarefas",
     thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
     link: "https://github.com/Lightsd7/DBE-Nac01"
+  },
+  {
+    title: "Desafio de microsserviços",
+    thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
+    link: "https://github.com/Lightsd7/Desafio-Java"
   }
 ];
 
