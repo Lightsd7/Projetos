@@ -10,6 +10,21 @@ const projetos = [
     link: "https://github.com/Lightsd7/CalculadoraJS"
   },
   {
+    title: "Meu Currículo com Tailwind",
+    thumb: "https://cms-assets.tutsplus.com/uploads/users/30/posts/34128/preview_image/tailwindcss-pre.png",
+    link: "https://github.com/Lightsd7/CV-with-Tailwind"
+  },
+  {
+    title: "Dashboard controle de gastos",
+    thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
+    link: "https://github.com/Lightsd7/React-TypeScript_Dashboard"
+  },
+  {
+    title: "Desafio de microsserviços",
+    thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
+    link: "https://github.com/Lightsd7/Desafio-Java"
+  },
+  {
     title: "Task Manager | back-end",
     thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
     link: "https://github.com/Lightsd7/Task-RubyOnRails"
@@ -18,11 +33,6 @@ const projetos = [
     title: "Site de ensino EAD com chatbot por texto e voz",
     thumb: "https://s2.glbimg.com/5pgaEIiZXIVWgSTOtfKBtm5AHaU=/695x393/s2.glbimg.com/vME2Bq4OSpm6f6IE16BhcVLR98U=/695x0/s.glbimg.com/po/tt2/f/original/2014/11/14/java-logo.jpg",
     link: "https://github.com/raphaelcamar/Chatbot-Voice---IBM-watson"
-  },
-  {
-    title: "API RESTful",
-    thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
-    link: "https://github.com/Lightsd7/Rails-API"
   },
   {
     title: "Aplicativo mobile de criação de tarefas",
@@ -70,19 +80,14 @@ const projetos = [
     link: "https://github.com/Lightsd7/E-Commerce"
   },
   {
-    title: "Dashboard controle de gastos",
-    thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
-    link: "https://github.com/Lightsd7/React-TypeScript_Dashboard"
-  },
-  {
     title: "Gerenciador de Tarefas",
     thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
     link: "https://github.com/Lightsd7/DBE-Nac01"
   },
   {
-    title: "Desafio de microsserviços",
-    thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
-    link: "https://github.com/Lightsd7/Desafio-Java"
+    title: "API RESTful",
+    thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
+    link: "https://github.com/Lightsd7/Rails-API"
   }
 ];
 
