@@ -140,13 +140,13 @@ CARDS
   font-size: 1.6rem;
   line-height: 2.6rem;
   font-weight: 400;
-  color: white;
+  color: #FF79C6;
 }
 
 .card {
   display: flex;
   flex-direction: column;
-  background-color: #0077b5;
+  background-color: #343746;
   cursor: pointer;
   transition: all 0.3s ease 0s;
 }
@@ -157,7 +157,7 @@ CARDS
 
 .image {
   width: 100%;
-  padding-top: 56.25%; /* 16:9 */
+  padding-top: 54%; /* 16:9 */
   overflow: hidden;
   position: relative;
 }
