@@ -20,14 +20,14 @@ const projetos = [
     link: "https://github.com/Lightsd7/React-TypeScript_Dashboard"
   },
   {
-    title: "Desafio de microsserviços",
-    thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
-    link: "https://github.com/Lightsd7/Desafio-Java"
-  },
-  {
     title: "Pesquisar organização no GitHub",
     thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
     link: "https://github.com/Lightsd7/Repositories-React"
+  },
+  {
+    title: "Desafio de microsserviços",
+    thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
+    link: "https://github.com/Lightsd7/Desafio-Java"
   },
   {
     title: "Task Manager | back-end",
