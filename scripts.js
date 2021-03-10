@@ -30,6 +30,11 @@ const projetos = [
     link: "https://github.com/Lightsd7/Task-RubyOnRails"
   },
   {
+    title: "Pesquisar organização no GitHub",
+    thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
+    link: "https://github.com/Lightsd7/Repositories-React"
+  },
+  {
     title: "Site de ensino EAD com chatbot por texto e voz",
     thumb: "https://s2.glbimg.com/5pgaEIiZXIVWgSTOtfKBtm5AHaU=/695x393/s2.glbimg.com/vME2Bq4OSpm6f6IE16BhcVLR98U=/695x0/s.glbimg.com/po/tt2/f/original/2014/11/14/java-logo.jpg",
     link: "https://github.com/raphaelcamar/Chatbot-Voice---IBM-watson"
