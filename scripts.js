@@ -25,14 +25,14 @@ const projetos = [
     link: "https://github.com/Lightsd7/Desafio-Java"
   },
   {
-    title: "Task Manager | back-end",
-    thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
-    link: "https://github.com/Lightsd7/Task-RubyOnRails"
-  },
-  {
     title: "Pesquisar organização no GitHub",
     thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
     link: "https://github.com/Lightsd7/Repositories-React"
+  },
+  {
+    title: "Task Manager | back-end",
+    thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
+    link: "https://github.com/Lightsd7/Task-RubyOnRails"
   },
   {
     title: "Site de ensino EAD com chatbot por texto e voz",
