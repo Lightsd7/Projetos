@@ -11,11 +11,6 @@ const projetos = [
     link: "https://github.com/Lightsd7/Image-Randomizer"
   },
   {
-    title: "Calculadora com JS puro",
-    thumb: "https://miro.medium.com/max/1200/1*ahpxPO0jLGb9EWrY2qQPhg.jpeg",
-    link: "https://github.com/Lightsd7/CalculadoraJS"
-  },
-  {
     title: "Meu Currículo com Tailwind",
     thumb: "https://cms-assets.tutsplus.com/uploads/users/30/posts/34128/preview_image/tailwindcss-pre.png",
     link: "https://github.com/Lightsd7/CV-with-Tailwind"
@@ -29,6 +24,11 @@ const projetos = [
     title: "Pesquisar organização no GitHub",
     thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
     link: "https://github.com/Lightsd7/Repositories-React"
+  },
+  {
+    title: "Calculadora com JS puro",
+    thumb: "https://miro.medium.com/max/1200/1*ahpxPO0jLGb9EWrY2qQPhg.jpeg",
+    link: "https://github.com/Lightsd7/CalculadoraJS"
   },
   {
     title: "Desafio de microsserviços",
