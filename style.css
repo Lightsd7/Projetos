@@ -181,9 +181,13 @@ CARDS
 
 .card-links {
   text-decoration: none;
-  transition: filter 0.2s;
-  
+}
+
+.card-links a {
+   transition: filter 0.2s;
   &:hover {
     filter: brightness(0.9);
   }
+ }
+
 }
