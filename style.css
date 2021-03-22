@@ -41,7 +41,7 @@ header .container {
 header img {
   width: 30px;
   height: 60px;
-  margin-left: 20px;
+  margin: 0 20px;
   padding: 15px 0;
 }
 
@@ -149,6 +149,7 @@ CARDS
   background-color: #343746;
   cursor: pointer;
   transition: all 0.3s ease 0s;
+  border-radius: 7px;
 }
 
 .card:hover {
@@ -161,6 +162,7 @@ CARDS
   
 .card a:hover {
   filter: brightness(0.9);
+  border: 3px solid #887ae2;
 }
 
 .image {
@@ -168,6 +170,7 @@ CARDS
   padding-top: 54%; /* 16:9 */
   overflow: hidden;
   position: relative;
+  border-radius: 7px 7px 0 0;
 }
 
 .image img {
