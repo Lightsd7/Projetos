@@ -4,6 +4,12 @@ const sectionCards = document.querySelector("section.cards");
 const card = document.querySelector("div.card");
 
 const projetos = [
+  
+  {
+    title: "Randomizador de imagens",
+    thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
+    link: "https://github.com/Lightsd7/Image-Randomizer"
+  },
   {
     title: "Calculadora com JS puro",
     thumb: "https://miro.medium.com/max/1200/1*ahpxPO0jLGb9EWrY2qQPhg.jpeg",
@@ -28,11 +34,6 @@ const projetos = [
     title: "Desafio de microsserviços",
     thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
     link: "https://github.com/Lightsd7/Desafio-Java"
-  },
-  {
-    title: "Task Manager | back-end",
-    thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
-    link: "https://github.com/Lightsd7/Task-RubyOnRails"
   },
   {
     title: "Site de ensino EAD com chatbot por texto e voz",
@@ -73,11 +74,6 @@ const projetos = [
     title: "TDD RSpec",
     thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
     link: "https://github.com/Lightsd7/TDD_RubyOnRails_RSpec"
-  },
-  {
-    title: "Aplicação web de crypto moedas",
-    thumb: "https://p.kindpng.com/picc/s/25-255290_ruby-on-rails-logo-hd-png-download.png",
-    link: "https://damp-depths-93411.herokuapp.com/"
   },
   {
     title: "E-commerce de livros",
