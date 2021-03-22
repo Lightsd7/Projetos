@@ -157,10 +157,10 @@ CARDS
 
 .card a {
   transition: filter 0.2s;
+}
   
-  &:hover {
-    filter: brightness(0.9);
-  }
+.card a:hover {
+  filter: brightness(0.9);
 }
 
 .image {
