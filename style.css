@@ -155,6 +155,14 @@ CARDS
   transform: translateY(-7px);
 }
 
+.card a {
+  transition: filter 0.2s;
+  
+  &:hover {
+    filter: brightness(0.9);
+  }
+}
+
 .image {
   width: 100%;
   padding-top: 54%; /* 16:9 */
@@ -181,13 +189,4 @@ CARDS
 
 .card-links {
   text-decoration: none;
-}
-
-.card-links a {
-   transition: filter 0.2s;
-  &:hover {
-    filter: brightness(0.9);
-  }
- }
-
 }
