@@ -42,7 +42,7 @@ const projetos = [
   },
   {
     title: "Aplicativo mobile de criação de tarefas",
-    thumb: "https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09",
+    thumb: "https://miro.medium.com/max/800/1*7lwP90uD_PsbkbLek7ffyQ.jpeg",
     link: "https://github.com/Lightsd7/CalculadoraJS"
   },
   {
@@ -52,7 +52,7 @@ const projetos = [
   },
   {
     title: "Aplicativo mobile do jogo Campo Minado",
-    thumb: "https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09",
+    thumb: "https://miro.medium.com/max/800/1*7lwP90uD_PsbkbLek7ffyQ.jpeg",
     link: "https://github.com/Lightsd7/CampoMinado"
   },
   {
@@ -62,7 +62,7 @@ const projetos = [
   },
   {
     title: "Aplicativo mobile de previsão do clima",
-    thumb: "https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09",
+    thumb: "https://miro.medium.com/max/800/1*7lwP90uD_PsbkbLek7ffyQ.jpeg",
     link: "https://github.com/Lightsd7/Weather-App"
   },
   {
