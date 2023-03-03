@@ -42,7 +42,7 @@ const projetos = [
   },
   {
     title: "Aplicativo mobile de criação de tarefas",
-    thumb: "https://cdn1.icicletech.com/media/react-native-logo.png",
+    thumb: "https://files.passeidireto.com/946ff5f5-f37c-4004-9d7e-cf6a5756a500/946ff5f5-f37c-4004-9d7e-cf6a5756a500.png",
     link: "https://github.com/Lightsd7/CalculadoraJS"
   },
   {
@@ -52,7 +52,7 @@ const projetos = [
   },
   {
     title: "Aplicativo mobile do jogo Campo Minado",
-    thumb: "https://cdn1.icicletech.com/media/react-native-logo.png",
+    thumb: "https://files.passeidireto.com/946ff5f5-f37c-4004-9d7e-cf6a5756a500/946ff5f5-f37c-4004-9d7e-cf6a5756a500.png",
     link: "https://github.com/Lightsd7/CampoMinado"
   },
   {
@@ -62,7 +62,7 @@ const projetos = [
   },
   {
     title: "Aplicativo mobile de previsão do clima",
-    thumb: "https://cdn1.icicletech.com/media/react-native-logo.png",
+    thumb: "https://files.passeidireto.com/946ff5f5-f37c-4004-9d7e-cf6a5756a500/946ff5f5-f37c-4004-9d7e-cf6a5756a500.png",
     link: "https://github.com/Lightsd7/Weather-App"
   },
   {
