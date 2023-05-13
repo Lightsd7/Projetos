@@ -6,19 +6,29 @@ const card = document.querySelector("div.card");
 const projetos = [
   
   {
+    title: "API Rest NodeJs, TypeScript e Prisma",
+    thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
+    link: "https://github.com/Lightsd7/API_Rest_Ignite_NodeJS_1"
+  },
+  {
     title: "Randomizador de imagens",
     thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
     link: "https://github.com/Lightsd7/Image-Randomizer"
   },
   {
-    title: "Meu Currículo com Tailwind",
-    thumb: "https://cms-assets.tutsplus.com/uploads/users/30/posts/34128/preview_image/tailwindcss-pre.png",
-    link: "https://github.com/Lightsd7/CV-with-Tailwind"
+    title: "API Rest com microsserviços",
+    thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
+    link: "https://github.com/Lightsd7/Desafio-Java"
   },
   {
     title: "Dashboard controle de gastos",
     thumb: "https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png",
     link: "https://github.com/Lightsd7/React-TypeScript_Dashboard"
+  },
+  {
+    title: "Meu Currículo com Tailwind",
+    thumb: "https://cms-assets.tutsplus.com/uploads/users/30/posts/34128/preview_image/tailwindcss-pre.png",
+    link: "https://github.com/Lightsd7/CV-with-Tailwind"
   },
   {
     title: "Pesquisar organização no GitHub",
@@ -29,11 +39,6 @@ const projetos = [
     title: "Calculadora com JS puro",
     thumb: "https://miro.medium.com/max/1200/1*ahpxPO0jLGb9EWrY2qQPhg.jpeg",
     link: "https://github.com/Lightsd7/CalculadoraJS"
-  },
-  {
-    title: "Desafio de microsserviços",
-    thumb: "https://fernandofranzini.files.wordpress.com/2019/05/logopit_15126739535452110963050.jpg",
-    link: "https://github.com/Lightsd7/Desafio-Java"
   },
   {
     title: "Site de ensino EAD com chatbot por texto e voz",
